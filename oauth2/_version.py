@@ -1,11 +1,8 @@
 # This is the version of this source code.
 
+
 manual_verstr = "1.9"
-
-
-
-auto_build_num = "0.post1"
-
+auto_build_num = "1"
 
 
 verstr = manual_verstr + "." + auto_build_num
